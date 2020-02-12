@@ -9,3 +9,4 @@ This project is an interactive explanation website of the [“filter bubble”](
 ![image](https://github.com/sylvesterlau/bubble-trouble/raw/master/screenshots/screenshot_3.png)
 ![image](https://github.com/sylvesterlau/bubble-trouble/raw/master/screenshots/screenshot_4.png)
 ![image](https://github.com/sylvesterlau/bubble-trouble/raw/master/screenshots/screenshot_5.png)
+![image](https://github.com/sylvesterlau/bubble-trouble/raw/master/screenshots/screenshot_6.png)
